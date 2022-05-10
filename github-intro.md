@@ -11,4 +11,4 @@
 - local - your computer
 - repo (repository) - named folder on GitHub
 - clone - taking a repo from the remote and putting it on our local
-- push and pull - action of moving code on a branch between local and remote
+- push and pull - action of moving code on a branch between local and remote.
